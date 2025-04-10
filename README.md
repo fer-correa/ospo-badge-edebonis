@@ -1,16 +1,21 @@
-## Hi there 👋
+# MERCADO LIBRE - MELI
+# Hi, I'm Esteban Miguel De Bonis Viar 👋
 
-<!--
-**edebonis/edebonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a [Team Member's Job Title] with a focus on [Their Expertise/Interest].
 
-Here are some ideas to get you started:
+## Projects
+- **Top Repositories:** Highlight some key projects if known.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies
+- **Languages:** [Languages They Use]
+- **Frameworks and Tools:** [Relevant Technologies]
+
+## Badges
+![Badge Name](link-to-badge-image) ![Another Badge](link-to-another-badge-image)
+
+## Connect
+- Email: [Their Email](mailto:team-member-email@example.com)
+- LinkedIn: [Their LinkedIn Profile](https://linkedin.com/in/username)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=edebonis&show_icons=true)
