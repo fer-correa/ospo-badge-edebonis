@@ -6,7 +6,7 @@ I'm a [Team Member's Job Title] with a focus on [Their Expertise/Interest].
 
 ## Achievements
 ### MELI OSPO - Recognition
- - Project Tests Recognition Contributors
+ - Project Tests Recognition Contributors</br>
 [![First Contrtibution](./badges/ospo-strategic-first-contribution.svg)](https://github.com/edebonis/urlShortener/pull/21)
 
 ## Stats
