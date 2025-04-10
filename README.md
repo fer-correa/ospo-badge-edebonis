@@ -7,12 +7,11 @@ I'm a [Team Member's Job Title] with a focus on [Their Expertise/Interest].
 ## Achievements
 ### MELI OSPO - Recognition
  - CNCF
-    - OpenTelemetry
+    - OpenTelemetry</br>
 [![Contributor](./badges/ospo-strategic-contributor.svg)](https://github.com/InnerSourceCommons/InnerSourceLearningPath/commits?author=fer-correa)
 
-    - Kubernetes
-[![First Contribution](ospo-strategic-first-contribution.svg)](https://github.com/todogroup/ospodefinition.org/pull/9)
-
+    - Kubernetes</br>
+[![First Contribution](./badges/ospo-strategic-first-contribution.svg)](https://github.com/todogroup/ospodefinition.org/pull/9)
 
 ## Stats
 <a href="https://github.com/edebonis/github-readme-stats">
@@ -23,7 +22,6 @@ I'm a [Team Member's Job Title] with a focus on [Their Expertise/Interest].
 </a>
 
 <div align="center">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=edebonis" />
     <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edebonis&theme=github">
 </div>
 
