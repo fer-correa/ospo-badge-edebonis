@@ -4,18 +4,19 @@
 ## About Me
 I'm a [Team Member's Job Title] with a focus on [Their Expertise/Interest].
 
-## Projects
-- **Top Repositories:** Highlight some key projects if known.
+## Achievements
+### MELI OSPO - Recognition
+ - Project Tests Recognition Contributors
+[![First Contrtibution](./badges/ospo-strategic-first-contribution.svg)](https://github.com/edebonis/urlShortener/pull/21)
 
-## Skills and Technologies
-- **Languages:** [Languages They Use]
-- **Frameworks and Tools:** [Relevant Technologies]
-
-## Badges
-![Badge Name](link-to-badge-image) ![Another Badge](link-to-another-badge-image)
+## Stats
+<a href="https://github.com/edebonis/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=edebonis&show_icons=true" />
+</a>
+<a href="https://github.com/edebonis/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edebonis&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Connect
-- Email: [Their Email](mailto:team-member-email@example.com)
-- LinkedIn: [Their LinkedIn Profile](https://linkedin.com/in/username)
+- [LinkedIn](https://www.linkedin.com/in/edebonis/)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=edebonis&show_icons=true)
